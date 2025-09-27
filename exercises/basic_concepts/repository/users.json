@@ -1,10 +1,12 @@
 [
     {
         "id": 1, 
-        "name": "Alice"
+        "name": "Alice",
+        "groups": [ 1 ]
     }, 
     {
         "id": 2, 
-        "name": "Bob"
+        "name": "Bob",
+        "groups": [ 1, 2 ]
     }
 ]
